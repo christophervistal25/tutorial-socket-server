@@ -1,7 +1,7 @@
 Clone this repository to your local machine.
 
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/christophervistal25/tutorial-socket-server.git
 Open your command line interface (CMD) or terminal.
 
 Navigate to the project directory.
